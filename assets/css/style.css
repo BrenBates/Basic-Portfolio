@@ -6,29 +6,61 @@ body {
     font-size: 12px;
     color: #dddddd;
     background: #eeeeee;
+
+    background-image: url("grey_wash_wall_@2X.png");
+    
+    background-position: left top; 
+
+    
 }
 
 header {
 
     float: left;
     background-color: #ffffff;
-    border-color: #cccccc;
-    width: 960px;
+    
+    width: 100%;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    color: #4aaaa5
+    color: #4aaaa5;
+    border-bottom:solid;
+    border-color: #4aaaa5;
+    border-width: 1px;
 
     
 }
 
 
-h2 {
+footer {
+
+    background-color: #666666;
+    text-align: center;
+    width: 100%;
+    position:fixed;
+    left:0;
+    bottom:0;
+    padding:15px;
+    border-top:solid;
+    border-color: #4aaaa5;
+    border-width: 8px;
+
+
+    
+}
+
+
+
+
+#abmhead {
 
     border-bottom: solid;
-    border-width: 1px;
+    border-width: 2px;
+
+    margin-left: 15px;
     margin-right: 15px;
     
-    margin-left: 15px;
+    padding-top: 15px;
     padding-bottom: 15px;
+
     color: #777777;
     border-color: #cccccc;
 
@@ -43,6 +75,18 @@ h2 {
     
 }
 
+
+
+.aboutmesection {
+    width: 960px;
+    margin-top: 100px;
+    margin-left: 120px;
+    margin-bottom: 100px;
+    padding-top: 5px;
+    padding-right: 10px;
+    background-color:#ffffff;
+
+}
 
 
 .aboutmepic{
@@ -72,10 +116,11 @@ a {
 .tabs {
 
   
-    float: right;
+    float: left;
     width: 240px;
-    text-align: right;
     padding: 35px 0 0 0;
+    margin-left: 530px;
+    
 }
 
 .about {
@@ -112,36 +157,12 @@ a {
 }
 
 
-.midbackground {
-
-   
-    width: 960px;
-    float:left;
-    background-color: lightblue;
-    
-
-}
-
-.aboutmesection{
-
-    padding-top: 5px;
-    margin-bottom: 100px;
-    
-    
- }
-
 .background {
 
-    width: 960px;
+    width: 100%;
 }
 
-.aboutmesection {
-    width: 640px;
-    margin-left: 160px;
-    margin-right: 160px;
-    background-color:#ffffff;
-    margin-top: 30px;
-}
+
 
 
 
