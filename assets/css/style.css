@@ -20,6 +20,37 @@ header {
     
 }
 
+
+h2 {
+
+    border-bottom: solid;
+    border-width: 1px;
+    margin-right: 15px;
+    
+    margin-left: 15px;
+    padding-bottom: 15px;
+    color: #777777;
+    border-color: #cccccc;
+
+}
+
+
+.aboutmeparagraph{
+    line-height: 2;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    color: #777777;
+    
+}
+
+
+
+.aboutmepic{
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 7.7px;
+}
+
 a {
 
     text-decoration: none;
@@ -81,16 +112,36 @@ a {
 }
 
 
+.midbackground {
 
+   
+    width: 960px;
+    float:left;
+    background-color: lightblue;
+    
 
-.image, .main, .contact {
-    float: left;
 }
 
-.main {
-    width: 60%;
+.aboutmesection{
+
+    padding-top: 5px;
+    margin-bottom: 100px;
+    
+    
+ }
+
+.background {
+
+    width: 960px;
 }
 
-.contact {
-    width: 40%;
+.aboutmesection {
+    width: 640px;
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color:#ffffff;
+    margin-top: 30px;
 }
+
+
+
