@@ -8,12 +8,28 @@ body {
     background: #eeeeee;
 }
 
+header {
+
+    float: left;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    width: 960px;
+}
+
+.tabs {
+
+    display: inline;
+    float: left;
+}
+
+
 h1 {
-    text-align: center; 
+    text-align: left; 
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: black;
     color: white;
+    width: 300px;
 }
 
 h2 {
