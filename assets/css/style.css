@@ -221,6 +221,26 @@ a {
 }
 
 
+#portfoliotable {
 
+
+
+    
+}
+
+td {
+    align-content: left;
+  
+    height: 200px;
+    width: 200px;
+    padding: 0px 0px 0px 15px;
+    margin-bottom: 15px;
+}
+
+.tablepic {
+
+    height: 180px;
+    width: 180px;
+}
 
 
