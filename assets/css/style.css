@@ -66,6 +66,33 @@ footer {
 
 }
 
+h4 {
+    margin-left: 15px;
+    margin-bottom: 5px;
+    color: #777777;
+    
+}
+
+.basicinput {
+    width: 920px;
+    padding: 3px 0 3px 5px;
+}
+
+.message {
+    width: 920px;
+    height: 150px;
+    padding: 3px 0 3px 5px;
+    margin-bottom: 10px;
+    resize: vertical;
+   
+}
+
+
+.submitbutton {
+    margin-bottom: 10px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+}
 
 .aboutmeparagraph{
     line-height: 2;
@@ -109,6 +136,13 @@ footer {
     padding-right: 10px;
     background-color:#ffffff;
 }
+
+input {
+    
+    margin-left: 15px;
+   
+}
+
 
 
 #aboutmepic{
